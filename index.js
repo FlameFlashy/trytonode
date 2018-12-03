@@ -1,1 +1,2 @@
-console.log('Hello from Node.js')
+// index.js
+require('./app/index')
